@@ -15,4 +15,4 @@ Runs the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view the functioning of client side in the browser 🎉
 
-Open [[http://localhost:4000](https://vrtourpilgrimage.netlify.app/)]([http://localhost:4000](https://vrtourpilgrimage.netlify.app/)) to view the live functioning of website 🎉
+Open [https://vrtourpilgrimage.netlify.app/](https://vrtourpilgrimage.netlify.app/) to view the live functioning of website 🎉
